@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\stepdefinitions\\accountstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:stepdefinitions\\accountstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\features\\account.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:features\\account.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\helpers\\testclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:helpers\\testclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\helpers\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:helpers\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\bookstore-api-reqnroll\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F49507-1ACD-42D3-A846-37B0C997EDF7}|BookStoreApiReqnrollTest.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Models\\UserResponse.cs",
+              "RelativeToolTip": "Models\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:03:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\StepDefinitions\\AccountStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\AccountStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\StepDefinitions\\AccountStepDefinitions.cs*",
+              "RelativeToolTip": "StepDefinitions\\AccountStepDefinitions.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:04:09.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Helpers\\CustomException.cs",
+              "RelativeDocumentMoniker": "Helpers\\CustomException.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Helpers\\CustomException.cs",
+              "RelativeToolTip": "Helpers\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:52:40.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClient.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Helpers\\TestClient.cs",
+              "RelativeDocumentMoniker": "Helpers\\TestClient.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Helpers\\TestClient.cs",
+              "RelativeToolTip": "Helpers\\TestClient.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:16:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.feature",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Features\\Account.feature",
+              "RelativeDocumentMoniker": "Features\\Account.feature",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Features\\Account.feature",
+              "RelativeToolTip": "Features\\Account.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-16T12:06:44.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\BookStore-API-reqnroll\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:34:48.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
